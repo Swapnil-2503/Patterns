@@ -20,8 +20,6 @@ To contribute to this repository, follow these steps:
 * [Python](./Python/README.md)
 * [C++](./C++/README.md)
 * [JavaScript](./JavaScript/README.md)
-* [Ruby](./Ruby/README.md)
-* [PHP](./PHP/README.md)
 
 ## License
 
