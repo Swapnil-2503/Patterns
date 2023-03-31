@@ -19,7 +19,6 @@ To contribute to this repository, follow these steps:
 * [Java](./Java)
 * [Python](./Python)
 * [C++](./C++)
-* [JavaScript](./JavaScript)
 
 ## License
 
