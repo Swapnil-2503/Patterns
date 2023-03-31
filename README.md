@@ -17,9 +17,9 @@ To contribute to this repository, follow these steps:
 ## Pattern Directory
 
 * [Java](./Java)
-* [Python](./Python/README.md)
-* [C++](./C++/README.md)
-* [JavaScript](./JavaScript/README.md)
+* [Python](./Python)
+* [C++](./C++)
+* [JavaScript](./JavaScript)
 
 ## License
 
